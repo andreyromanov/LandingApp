@@ -314,6 +314,9 @@ body{
 .h-auto{
     height: auto;
 }
+.b-r{
+    border-radius: 40px;
+}
 
 
 
